@@ -1,5 +1,5 @@
 Master branch file
 
-ontent introduced from mycodebranch
+Content introduced from mycodebranch. Editing this in Master branchnow. this might create conflicts
 
 Adding content from master branch.
