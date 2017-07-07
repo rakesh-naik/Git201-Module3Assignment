@@ -1,9 +1,5 @@
 Master branch file
 
-
-Content introduced from mycodebranch. Editing this in Master branchnow. this might create conflicts
-
-
 This content is introduced from mycodebranch. 
 A new line added from branch.
 
